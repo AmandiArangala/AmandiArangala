@@ -2,6 +2,8 @@
 <h3 align="center">Hello! I'm Amandi Arangala, a dedicated Information Technology undergraduate at the University of Moratuwa, with a passion for technology and innovation.</h3>
 <img align = "right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg">
 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandiarangala&label=Profile%20views&color=0e75b6&style=flat" alt="amandiarangala" /> </p>-->
+
 - 📫 How to reach me **amandi20030520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
