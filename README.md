@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amandi Pabsara Arangala</h1>
+<h1 align="center">Hi 👋, I'm Amandi Pabasara Arangala</h1>
 <h3 align="center">Hello! I'm Amandi Arangala, a dedicated Information Technology undergraduate at the University of Moratuwa, with a passion for technology and innovation.</h3>
 <img align = "right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg">
 
