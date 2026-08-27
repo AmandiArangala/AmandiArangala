@@ -39,7 +39,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server Management Studio (SSMS)" title="Microsoft SQL Server Management Studio (SSMS)" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
