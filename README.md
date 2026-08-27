@@ -13,20 +13,11 @@
   <a href="https://linkedin.com/in/amandiarangala" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/amandi.arangala?utm_source=wa4a&utm_campaign=wa_vpl_m2_uvf_web" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" />
   </a>
   <a href="mailto:amandi20030520@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
-  </a>
-  <a href="https://kaggle.com/amandiarangala" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/amandi20030520" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
 </p>
 
