@@ -66,12 +66,12 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandiArangala&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF6E96&text_color=FFFFFF&icon_color=58A6FF" width="58%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AmandiArangala&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF6E96&text_color=FFFFFF&icon_color=58A6FF" width="58%" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandiArangala&theme=tokyonight&hide_border=false&fire=58A6FF&ring=58A6FF&currStreakNum=FFFFFF" width="48%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandiArangala&layout=compact&theme=tokyonight&hide_border=false&title_color=FF6E96&text_color=FFFFFF" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmandiArangala&layout=compact&theme=tokyonight&hide_border=false&title_color=FF6E96&text_color=FFFFFF" width="48%" alt="Top Languages" />
 </div>
